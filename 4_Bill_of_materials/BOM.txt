@@ -1,0 +1,54 @@
+
+Author: Eric J Stanton <eric.stanton@nist.gov>
+Copyright: 2019 Eric J Stanton
+License: BSD-3-Clause
+
+
+Source   ;   Source Part #   ;   QTY Needed   ;   Order QTY   ;   Price (Each)   ;   Total Price ;   Decription  ;   Notes
+
+
+MECHANICAL PARTS:
+
+McMaster-Carr   ;   8975K142    ;   1   ;   1   ;   $34.73  ;   $34.73  ;   6061 Aluminum Sheet, 12" x 12" x 1/4" ;   
+McMaster-Carr   ;   9064K161    ;   1   ;   1   ;   $129.87 ;   $129.87 ;   304 Stainless Steel Sheet, Tight-Tolerance, 4" x 4" x 1/4"   ;   
+McMaster-Carr   ;   9064K157    ;   1   ;   1   ;   $114.37 ;   $114.37 ;   304 Stainless Steel Sheet, Tight-Tolerance, 3" x 3" x 1/4"   ;   
+McMaster-Carr   ;   91125A561   ;   4   ;   4   ;   $1.69   ;   $6.76   ;   Female Threaded Round Standoff, 6-32, 9/32"   ;   
+McMaster-Carr   ;   93615A210   ;   4   ;   1   ;   $7.20   ;   $7.20   ;   Low-Profile Socket Head Screws, 6-32, 1/4"   ;   Sold in packs of 25
+McMaster-Carr   ;   1421T159    ;   1   ;   1   ;   $6.74   ;   $6.74   ;   304 Stainless Steel Strip, 6" x 18", 0.007" Thick   ;   
+McMaster-Carr   ;   91292A009   ;   6   ;   1   ;   $4.40   ;   $4.40   ;   18-8 SS Socket Head Screw, M2.5 x 0.45, 5mm   ;   Sold in packs of 100
+McMaster-Carr   ;   92855A316   ;   3   ;   1   ;   $3.20   ;   $3.20   ;   Low-Profile Socket Head Screws, M3 x 0.5mm, 16 mm   ;   Sold in packs of 25
+McMaster-Carr   ;   92855A309   ;   27  ;   2   ;   $5.54   ;   $11.08  ;   Low-Profile Socket Head Screws, M3 x 0.5mm, 8 mm   ;   Sold in packs of 25
+McMaster-Carr   ;   9001T220    ;   3   ;   1   ;   $5.03   ;   $5.03   ;   Compression Spring, 0.625" Overall Length   ;   Sold in packs of 3
+McMaster-Carr   ;   92871A009   ;   3   ;   3   ;   $1.86   ;   $5.58   ;   SS Unthreaded Spacer, M3, 6mm OD, 6mm Lg   ;   
+McMaster-Carr   ;   92855A313   ;   3   ;   1   ;   $2.67   ;   $2.67   ;   Low-Profile Socket Head Screws, M3 x 0.5mm, 12 mm   ;   Sold in packs of 25
+McMaster-Carr   ;   9546K551    ;   4   ;   4   ;   $6.18   ;   $24.72  ;   Neoprene Bumper, 1/4"-20 Size, Durometer 40A   ;   
+McMaster-Carr   ;   92196A537   ;   4   ;   1   ;   $9.61   ;   $9.61   ;   18-8 Stainless Steel Socket Head Screw   ;   Sold in packs of 50
+McMaster-Carr   ;   92141A029   ;   4   ;   1   ;   $3.37   ;   $3.37   ;   18-8 Stainless Steel Washer for 1/4" Screw   ;   Sold in packs of 100
+
+SUBTOTAL:   $369.33
+
+
+ELECTRICAL PARTS:
+
+Actuonix               ;   CABLE-ADAPTER-S-BUNDLE    ;   3    ;   3    ;   $6.00     ;   $18.00     ;   PQ12 Cable Adapter with "S" Extension Cable ;   
+Actuonix               ;   DCPOWERSUPPLY             ;   1    ;   1    ;   $10.00    ;   $10.00     ;   DC Power Supply, 12 volts    ;   
+Actuonix               ;   SWITCH_KIT                ;   1    ;   1    ;   $6.00     ;   $6.00      ;   DPDT Switch Kit, non-latching    ;   
+Actuonix               ;   PQ12-S                    ;   3    ;   3    ;   $65.00    ;   $195.00    ;   Linear Actuator with Limit Switches, 100:1    ;   
+Actuonix               ;   S9-50                     ;   3    ;   3    ;   $40.00    ;   $120.00    ;   Micro Linear Slide Rail 50mm    ;   
+
+SUBTOTAL:   $349.00
+
+
+MACHINING/FABRICATION:
+
+CNC Machining: Proto Labs          ;        ;   3   ;   3    ;   $98.84   ;   $296.52   ;   Slide block adapter ;   
+CNC Machining: Front Range Eng.    ;        ;   1   ;   1    ;   $175.00  ;   $175.00   ;   BASE Machining   ;   
+CNC Machining: Front Range Eng.    ;        ;   1   ;   1    ;   $245.00  ;   $245.00   ;   WAFER PLATFORM Machining   ;   
+Photofabrication Engineering Inc   ;        ;   3   ;   100  ;   $5.50    ;   $550.00   ;   FLAG Photochemical Etching   ;   
+
+SUBTOTAL:   $1266.52
+
+
+
+TOTAL PRICE:    $1984.85
+
