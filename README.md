@@ -2,7 +2,7 @@
 This goal of this project is to make our wafer bonding tool open source. The following sections reflect folders in the project's master directory and are used to guide you through the design, fabrication, and usage.
 
 # Authors
-Eric J. Stanton, Jeff Chiles, Nima Nader, Sae Woo Nam, and Richard P. Mirin
+Eric J. Stanton, Ryan Daniel, Jeff Chiles, Nima Nader, Sae Woo Nam, and Richard P. Mirin
 
 ## Introduction
 General description of the project.
