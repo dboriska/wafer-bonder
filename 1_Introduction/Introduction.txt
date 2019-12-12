@@ -1,0 +1,6 @@
+
+Author: Eric J Stanton <eric.stanton@nist.gov>
+Copyright: 2019 Eric J Stanton
+License: BSD-3-Clause
+
+The wafer bonder is an assembly for bonding the surfaces of two 3-inch wafers together. This technique is generally used for electronics or photonics fabrication in a cleanroom. First, the wafers must be cleaned and the surfaces prepared to be very smooth, usually less than 1 nm RMS roughness is necessary. Next, the surfaces are activated so they will bond upon contact. The wafer bonder is then used to roughly align the wafers and bring them into contact by first contacting the centers of the wafers and then letting a bond wave propagate out to the edges. An anneal is usually performed to complete the chemical reaction at the bond interface and increase the bonding energy. This wafer bonder is designed for 3-inch (76 mm) diameter wafers. Other wafer sizes are not compatible with this bonder, but this design may be modified to scale up or down to other wafer sizes.
