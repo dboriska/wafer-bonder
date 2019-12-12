@@ -1,6 +1,0 @@
-
-Author: Eric J Stanton <eric.stanton@nist.gov>
-Copyright: 2019 Eric J Stanton
-License: BSD-3-Clause
-
-The wafer bonder is designed to bring two activated wafers into contact. Initial contact should start near the center of the wafers and propagate outwards. Motorized flags are used so the bottom and top wafers can be separated at the edges while the centers of the wafers are pressed together. Retracting the flags while pressure is being applied at the center of the wafers creates a bond wave that propagates from the center towards the edges. This mechanism minimizes the formation of trapped air bond voids that may form due to non-uniformity in either wafer surface. The flags also allow for the user to roughly align the wafers by adjusting either wafer's position while they are in close proximity.
