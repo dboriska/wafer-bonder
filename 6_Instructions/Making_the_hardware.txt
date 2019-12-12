@@ -1,0 +1,12 @@
+
+Author: Eric J Stanton <eric.stanton@nist.gov>
+Copyright: 2019 Eric J Stanton
+License: BSD-3-Clause
+
+After purchasing all parts, six different parts must be machined. See the corresponding drawings in the "3_Auxiliary_design_files" directory. Then, the wafer bonder can be assembled with the following instructions.
+
+The slide block adapters are made from the 3"x3" steel plate (9064K157), and 3 are necessary to control the 3 flags. The base should be machined using the aluminum plate (8975K142), and only 1 is necessary. The platform should be machined using the 4"x4" stainless steel plate (9064K161), and only 1 is necessary. The flags should be machined using photolithography from the stainless steel plat (1421T159). Only 3 flags are necessary, but extras are good to have in case they get bent or scratched.
+
+To assemble the wafer bonder, it is best to open the original design file to use as a guide. In the directory "2_Original_design_files" there are two options: a step file and an fcstd file. The step file can be opened by any CAD software, and the fcstd file can be opened with FreeCAD (free CAD software). Each component is labeled with a description to match the description found in the BOM.
+
+The final step is to machine the control box and connect the motors to the switch and power supply. The design file for the control box is found in the svg file in the "2_Original_design_files" directory. This svg file should be used to laser cut an acrylic sheet. The acrylic parts fit together and the switch mounts to the acrylic. The hole on the back of the box allows for the power supply and motor wires to pass through.

@@ -1,0 +1,15 @@
+
+Author: Eric J Stanton <eric.stanton@nist.gov>
+Copyright: 2019 Eric J Stanton
+License: BSD-3-Clause
+
+Before using the wafer bonder, two 3-inch wafers must be prepared for bonding. One example for the wafer preparation can be found in the preprint at this link: link_to_SHG_preprint. Below is the list of steps on how to use the wafer bonder.
+
+1. Retract the flags completely.
+2. Place the first wafer on the platform with the bonding surface up and the major flat against the two standoffs.
+3. Extend the flags completely. Each flag should extend past the first wafer roughly 5 mm.
+4. Place the second wafer on the flags with the bonding surface down and roughly aligned to the first wafer. Make any adjustments to either wafer (with tweezers) to improve the alignment.
+5. Press down in the center of the wafer stack with the backside of a tweezer so the two wafers come in contact.
+6. While continuing to press down on the wafer stack, retract the flags completely.
+
+This is the end of the wafer bonder operation. Usually, the wafers are inspected with an IR microscope to check for voids and an anneal is performed to strengthen the bond.
